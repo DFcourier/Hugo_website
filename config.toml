@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://dfcourier.github.io/Hugo_website/"
 languageCode = "en-us"
 title = "My New Hugo Site"
 theme = "learn"
